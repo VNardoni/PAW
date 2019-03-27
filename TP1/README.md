@@ -3,14 +3,12 @@
 
 <h4> Teoria </h4>
 
-<ul>
-  <li> 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo? <li>
+
+  <h6> 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo? </h6>
   <p> RESPUESTA </p>
   
-  <li> 2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad. </li>
-  
+  <h6> 2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad. </h6>
   <p> RESPUESTA </p>
 
 
   
-</ul>
