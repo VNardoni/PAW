@@ -6,6 +6,6 @@
 <h5> Alumnos: </h5>
 <ul>
   <li> Nardoni Valentin <em> [127609] </em> </li>
-  <li> Otero Facundo <em> [Legajo] </em> </li>
+  <li> Otero Facundo <em> [118048] </em> </li>
 </ul>
 
