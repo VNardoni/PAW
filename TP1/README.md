@@ -5,7 +5,7 @@
 
 
   <h6> 1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo? </h6>
-  <p> RESPUESTA </p>
+  <p style="font-size: 8"> RESPUESTA </p>
   
   <h6> 2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad. </h6>
   <p> RESPUESTA </p>
